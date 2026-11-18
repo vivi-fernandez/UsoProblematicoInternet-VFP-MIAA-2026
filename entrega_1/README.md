@@ -146,7 +146,7 @@ Organicé las tareas según los objetivos específicos y los productos de cada e
 
 ### 6.2. Cronograma
 
-![Cronograma de seis semanas. Primera entrega al cierre de la semana 1, segunda al cierre de la semana 3 y tercera al cierre de la semana 6.](cronograma.png)
+![Cronograma de seis semanas. Primera entrega al cierre de la semana 1, segunda al cierre de la semana 3 y tercera al cierre de la semana 6.](Cronograma.png)
 
 *Figura 6. Cronograma del proyecto. Las barras indican la duración de las actividades. Cada rombo (◆) marca un hito previsto al cierre de su etapa. Las fechas y horas límite se confirmarán con el calendario oficial de la asignatura.*
 
