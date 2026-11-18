@@ -1,6 +1,6 @@
 # Entrega 1 — Formulación del proyecto y revisión de antecedentes
 
-**Universidad Icesi: Maestria en Inteligencia Artificial Aplicada · 2026-2**  
+**Universidad Icesi: Especialización en Inteligencia Artificial Aplicada · 2026-2**  
 **Proyecto:** Estimación de la severidad del uso problemático de internet en niños y adolescentes.  
 **Autora:** Viviana Fernández Payán · [GitHub: vivi-fernandez](https://github.com/vivi-fernandez) 
 
