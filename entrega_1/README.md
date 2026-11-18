@@ -2,7 +2,8 @@
 
 **Universidad Icesi: Especialización en Inteligencia Artificial Aplicada · 2026-2**  
 **Proyecto:** Estimación de la severidad del uso problemático de internet en niños y adolescentes.  
-**Autora:** Viviana Fernández Payán · [GitHub: vivianaf926](https://github.com/vivianaf926)  
+**Autora:** Viviana Fernández Payán · [GitHub: vivianaf926]([https://github.com/vivianaf926](https://github.com/vivi-fernandez))  
+
 **Estado:** formulación y revisión de antecedentes. La evaluación experimental corresponde a la siguiente etapa.
 
 > En esta primera entrega delimito el problema, formulo la pregunta de investigación y los objetivos, reviso los antecedentes y presento el plan de trabajo.
