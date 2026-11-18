@@ -2,7 +2,7 @@
 
 **Universidad Icesi · Especialización en Inteligencia Artificial Aplicada**  
 **Asignatura:** Proyecto I de Innovación IA  
-**Autora:** [Viviana Fernández Payán](https://github.com/vivianaf926)  
+**Autora:** [Viviana Fernández Payán](https://github.com/vivi-fernandez)
 **Estado:** formulación, EDA tabular y experimentos de referencia documentados.
 
 ## Resumen del proyecto
